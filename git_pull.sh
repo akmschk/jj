@@ -19,7 +19,7 @@ ContentVersion=${ShellDir}/version
 ContentNewTask=${ShellDir}/new_task
 ContentDropTask=${ShellDir}/drop_task
 SendCount=${ShellDir}/send_count
-ScriptsURL=jd_scripts_gitee:lxk0301/jd_scripts
+ScriptsURL=https://gitee.com/highdimen/clone_scripts
 ShellURL=https://github.com/akmschk/jj
 
 
